@@ -1,0 +1,5 @@
+{
+  "name": "IPTV Subtitle Restreamer",
+  "description": "Restream IPTV HLS content with real-time AI-generated subtitles. Provides a modified M3U8 link for external players.",
+  "requestFramePermissions": ["microphone"]
+}
